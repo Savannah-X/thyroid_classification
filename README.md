@@ -1,6 +1,6 @@
 # thyroid_classification
 2024 BUPT 智能医学影像技术实验 实验五 甲状腺结节超声图像分类实验
-参考代码：https://github.com/ruchita-2/thyroid-cancer-classification 侵权删
+
 # 实验五 甲状腺结节超声图像分类实验
 
 ## 一、实验目的
@@ -47,4 +47,4 @@
 ## 四、实验总结
 - 对模型评估的各项指标结果进行统计分析，讨论本实验模型的优势和不足之处。分析实验过程中可能存在的问题，如数据质量、特征提取方法的有效性、模型选择与优化等方面，并提出改进建议和未来研究方向。同时，结合临床实际应用场景，探讨机器学习模型在辅助甲状腺结节诊断中的可行性和潜在价值。
 
-
+#####参考代码：https://github.com/ruchita-2/thyroid-cancer-classification 侵权删

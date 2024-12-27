@@ -8,7 +8,7 @@
 
 ## 二、实验设备与环境
 - **甲状腺结节超声图像数据集**：如图,仓库里数据集不全，仅展示格式
-- <img width="150" alt="dataset" src="https://github.com/user-attachments/assets/ba89482f-22f1-4ce3-9512-337a624d4516" />
+ <img width="150" alt="dataset" src="https://github.com/user-attachments/assets/ba89482f-22f1-4ce3-9512-337a624d4516" />
 - **计算机设备**：一台可支持图像数据处理和模型训练的计算机。
 - **编程软件与库（以 Python 为例）**：
   - Python 编程语言及其相关科学计算库（如 NumPy、Pandas）用于数据处理和分析。
